@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/QueryAtAdminForm.java=UTF-8
+encoding//src/main/java/controller/QueryAtAdminUser.java=UTF-8
+encoding//src/main/java/controller/QueryAtUser.java=UTF-8
+encoding//src/main/java/dao/AccountDAO.java=UTF-8
+encoding//src/main/java/model/DonationRound.java=UTF-8
+encoding//src/main/java/model/SendMailSSL.java=UTF-8
+encoding//src/main/java/model/User.java=UTF-8
+encoding//src/main/java/paypalcontroller/ExecutePaymentServlet.java=UTF-8
